@@ -1,0 +1,1 @@
+/home/a/p3dx교재1/source/ch2Build/CMakeFiles/ex2.dir

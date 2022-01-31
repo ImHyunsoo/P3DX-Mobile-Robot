@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/a/p3dx교재1/source/chap2/ex2a.c
+stdio.h
+-
+
+/home/a/p3dx교재1/source/chap2/ex2a.h
+
+/home/a/p3dx교재1/source/chap2/ex2b.c
+stdio.h
+-
+
+/home/a/p3dx교재1/source/chap2/ex2b.h
+
+/home/a/p3dx교재1/source/chap2/ex2main.c
+ex2a.h
+/home/a/p3dx교재1/source/chap2/ex2a.h
+ex2b.h
+/home/a/p3dx교재1/source/chap2/ex2b.h
+

@@ -1,0 +1,1 @@
+extern void funcB();
