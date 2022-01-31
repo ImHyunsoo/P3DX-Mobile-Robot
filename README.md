@@ -12,3 +12,6 @@
   * Wheel encoders
   * Microcontroller with ARCOS(ActivMedia Robotics Operating System) firmware
   * RS-232 compatible serial port or Ethernet
+  
+<center><img src="https://user-images.githubusercontent.com/20950569/151878132-d7014a33-6863-4026-809d-5f79495f5a42.png" width="500", height="400"> </center>
+
